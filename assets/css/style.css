@@ -1,0 +1,21 @@
+.jumbotron {
+	text-align: center;
+}
+
+body {
+	background-image: url("../images/background.jpg");
+
+}
+
+p, label {
+	font-size:125%;
+}
+.item {
+	display:inline-block;
+	position:relative;
+	margin:20px;
+}
+
+#buttons, #hero-form {
+	text-align:center;
+}
